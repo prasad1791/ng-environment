@@ -1,0 +1,28 @@
+{
+  "name": "ng-environment",
+  "version": "0.0.2",
+  "description": "External environment for angular",
+  "peerDependencies": {
+    "@angular/common": "^9.0.5",
+    "@angular/core": "^9.0.5",
+    "tslib": "^1.10.0"
+  },
+  "keywords": [
+    "angular",
+    "environment",
+    "external environment",
+    "variables",
+    "environment variables" 
+  ],
+  "author": {
+    "name": "Prasad Bhamre"
+  },
+  "bugs": {
+    "url": "https://github.com/prasad1791/ng-environment/issues"
+  },
+  "homepage": "https://github.com/prasad1791/ng-environment",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prasad1791/ng-environment.git"
+  }
+}
